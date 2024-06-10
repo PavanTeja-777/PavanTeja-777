@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanTeja-777
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScricpt
 - 📫 How to reach me : psptsonofsantosh@gmail.com
 
 <!---
