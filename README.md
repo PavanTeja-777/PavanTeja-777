@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Receipt generator<br>👯 I’m looking to collaborate on ECET asprirants<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React<br>💬 Ask me about Python<br> <!--⚡ Fun fact : DSA through Python is easy -->
+🔭 I’m currently working on Receipt generator<br>👯 I’m looking to collaborate on ECET asprirants<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React<br>💬 Ask me about Python<br>⚡ Fun fact : Learning DSA through Python.
 
 
 ## 🌐 Socials:
