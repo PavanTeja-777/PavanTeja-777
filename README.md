@@ -1,4 +1,4 @@
-<!-- # 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Receipt generator<br>👯 I’m looking to collaborate on ECET asprirants<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React<br>💬 Ask me about Python<br>⚡ Fun fact : Learning DSA through Python
 
 
@@ -25,8 +25,8 @@
 [![](https://visitcount.itsvg.in/api?id=PavanTeja-777&icon=2&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
 
+<!--
 <h1 align="center">Hi 👋, I'm Pavan Teja</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -61,3 +61,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanteja-777&show_icons=true&locale=en" alt="pavanteja-777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanteja-777&theme=default" alt="pavanteja-777" /></p>
+-->
